@@ -1,7 +1,11 @@
 :root{ 
-color: brown;
-background-image: url(fundo.gif);
-text-align: center;
-align-items: center;
+    color: rgb(0, 162, 255);
+    background-image: url(fundo.gif);
+    text-align: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+div{
+    padding-top: 70px;
 }
